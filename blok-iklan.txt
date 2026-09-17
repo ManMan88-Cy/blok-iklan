@@ -16,8 +16,8 @@
 ||v45-ch.tiktokcdn.com^
 ||v16m.tiktokcdn.com^
 ||v16.tiktokcdn.com^
-||^
-||^
+||pinedramas.com^
+||nexdrama.com^
 ||^
 ||^
 ||^
