@@ -6,3 +6,4 @@
 ||ibyteimg.com^
 ||ttwstatic.com^
 ||sf16-website-login.neutral.ttwstatic.com^
+||z-m-gateway.facebook.com^
