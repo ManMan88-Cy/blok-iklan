@@ -20,7 +20,7 @@
 ||nexdrama.com^
 ||b-api.facebook.com^
 ||api.facebook.com^
-||^
+||engagements.appsflyer.com^
 ||^
 ||^
 ||^
