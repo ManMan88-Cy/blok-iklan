@@ -14,8 +14,8 @@
 ||p16-common-sign.tiktokcdn.com^
 ||api-h2.tiktokv.com^
 ||v45-ch.tiktokcdn.com^
-||^
-||^
+||v16m.tiktokcdn.com^
+||v16.tiktokcdn.com^
 ||^
 ||^
 ||^
