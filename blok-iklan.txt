@@ -7,3 +7,7 @@
 ||ttwstatic.com^
 ||sf16-website-login.neutral.ttwstatic.com^
 ||z-m-gateway.facebook.com^
+||v16.tiktokcdn.com^
+||api-h2.tiktokv.com^
+||api22-core.tiktokv.com^
+||api16-core.tiktokv.com^
