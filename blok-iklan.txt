@@ -18,8 +18,8 @@
 ||v16.tiktokcdn.com^
 ||pinedramas.com^
 ||nexdrama.com^
-||^
-||^
+||b-api.facebook.com^
+||api.facebook.com^
 ||^
 ||^
 ||^
