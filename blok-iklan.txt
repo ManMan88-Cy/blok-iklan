@@ -22,7 +22,7 @@
 ||api.facebook.com^
 ||engagements.appsflyer.com^
 ||shortdrama.tiktok.com^
-||^
+||engagements.appsflyer.com^
 ||^
 ||^
 ||^
